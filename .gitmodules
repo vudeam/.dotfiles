@@ -1,0 +1,34 @@
+[submodule "nvim/autoload/plugged/NERDtree"]
+	path = nvim/autoload/plugged/NERDtree
+	url = https://github.com/scrooloose/NERDtree.git
+[submodule "nvim/autoload/plugged/vim-polyglot"]
+	path = nvim/autoload/plugged/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "nvim/autoload/plugged/onedark.vim"]
+	path = nvim/autoload/plugged/onedark.vim
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "nvim/autoload/plugged/coc.nvim"]
+	path = nvim/autoload/plugged/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+	branch = release
+[submodule "nvim/autoload/plugged/vim-airline"]
+	path = nvim/autoload/plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "nvim/autoload/plugged/vim-airline-themes"]
+	path = nvim/autoload/plugged/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "nvim/autoload/plugged/indentline"]
+	path = nvim/autoload/plugged/indentline
+	url = https://github.com/yggdroot/indentline.git
+[submodule "nvim/autoload/plugged/auto-pairs"]
+	path = nvim/autoload/plugged/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "nvim/autoload/plugged/vim-fugitive"]
+	path = nvim/autoload/plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "nvim/autoload/plugged/rainbow"]
+	path = nvim/autoload/plugged/rainbow
+	url = https://github.com/luochen1990/rainbow.git
+[submodule "nvim/autoload/plugged/vim-devicons"]
+	path = nvim/autoload/plugged/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
