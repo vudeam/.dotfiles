@@ -1,0 +1,15 @@
+[user]
+	email = vadim22.barnaul@gmail.com
+	name = Vadim Ermakov
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	last = log -1 HEAD
+	logp = log -10 --pretty=format:\"%h — %an: %s\"
+	unstage = reset HEAD --
+[help]
+	autoCorrect = 10
+[core]
+	editor = nvim
