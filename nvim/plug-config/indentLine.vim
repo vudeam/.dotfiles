@@ -1,4 +1,5 @@
-let g:indentLine_char='┊'
+" different indicators for indent levels
+let g:indentLine_char_list = ['|', '¦', '┆', '┊']
 let g:indentLine_leadingSpaceChar='·'
 let g:indentLine_leadingSpaceEnabled=1
 
