@@ -1,6 +1,3 @@
-[submodule "nvim/autoload/plugged/NERDtree"]
-	path = nvim/autoload/plugged/NERDtree
-	url = https://github.com/scrooloose/NERDtree.git
 [submodule "nvim/autoload/plugged/vim-polyglot"]
 	path = nvim/autoload/plugged/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot.git

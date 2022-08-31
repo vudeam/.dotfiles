@@ -3,9 +3,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " better syntax support
     Plug 'sheerun/vim-polyglot'
 
-    " file explorer
-    Plug 'scrooloose/NERDtree'
-
     " A dark color scheme for Vim based on Wombat
     " Plug 'pacha/vem-dark'
 
