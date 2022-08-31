@@ -1,10 +1,10 @@
 source $HOME/.config/nvim/vim-plug/plugins.vim        " vim-plug
-source $HOME/.config/nvim/keys/mappings.vim           " key mappings
 source $HOME/.config/nvim/plug-config/coc.vim         " Conquer of Completion settings
 source $HOME/.config/nvim/plug-config/indentLine.vim  " IndentLine settings
 source $HOME/.config/nvim/plug-config/vim-rainbow.vim " IndentLine settings
 source $HOME/.config/nvim/themes/onedark.vim          " one dark theme
 source $HOME/.config/nvim/themes/airline.vim          " tabline
+source $HOME/.config/nvim/keys/mappings.vim           " key mappings
 
 
 " different config settings

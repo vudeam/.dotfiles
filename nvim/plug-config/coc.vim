@@ -152,6 +152,6 @@ nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 
 """""""""""""""""""""""""
-" coc extensions
-" (should install automaticallty)
-let g:coc_global_extensions = [ 'coc-clangd', 'coc-markdownlint' ]
+" coc extensions (should install automaticallty)
+" https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions
+let g:coc_global_extensions = [ 'coc-clangd', 'coc-explorer', 'coc-markdownlint' ]

@@ -1,3 +1,6 @@
+let mapleader="\<Space>"
+
+
 " use Alt + hjkl to resize windows
 nnoremap <M-j>    :resize -1<CR>
 nnoremap <M-k>    :resize +1<CR>
@@ -43,4 +46,8 @@ vnoremap <C-A-k> :m '<-2<CR>gv=gv
 map <F5> :setlocal spell!<CR>
 map <F6> :setlocal spelllang=en_us<CR>
 map <F7> :setlocal spelllang=ru_ru<CR>
+
+
+" coc-explorer
+nmap <Leader>e <Cmd>CocCommand explorer<CR>
 
