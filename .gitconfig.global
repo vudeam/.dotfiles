@@ -9,7 +9,10 @@
 	last = log -1 HEAD
 	logp = log -10 --pretty=format:\"%h — %an: %s\"
 	unstage = reset HEAD --
+	sw = switch
 [help]
 	autoCorrect = 10
 [core]
 	editor = nvim
+[init]
+	defaultBranch = master
