@@ -51,3 +51,6 @@ map <F7> :setlocal spelllang=ru_ru<CR>
 " coc-explorer
 nmap <Leader>e <Cmd>CocCommand explorer<CR>
 
+" zoom split
+nnoremap Zz <C-w> _ \| <c-w>\|
+nnoremap Zo <C-w> =
