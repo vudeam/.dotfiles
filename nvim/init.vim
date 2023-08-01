@@ -23,7 +23,7 @@ set expandtab
 set smartindent
 set autoindent
 set laststatus=0                " always display the status line
-set number                      " line numbers
+set relativenumber              " line numbers
 set cursorline
 set background=dark             " tell Vim what the background color looks like
 set showtabline=2               " always show tabs (tabline above)
