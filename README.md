@@ -2,6 +2,7 @@
 
 Currently includes:
 
+- Tmux (`.tmux.conf`)
 - NeoVim (`~/.config/nvim/`)
 - Git aliases (`.gitconfig.global`)
 - Vanilla Vim config (`vanilla.vimrc`)
